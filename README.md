@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunkrishna4
-- 👀 I’m interested in making app
+- 👀 I’m interested in building Flutter app
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: arunkrishnaraghav@gmail.com
